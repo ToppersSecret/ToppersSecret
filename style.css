@@ -1,0 +1,152 @@
+body {
+    margin:0px;
+    padding:0px;
+    font-family:cursive;
+        
+}
+header{
+    width:100%;
+    height:50px;
+    padding-top:20px;
+    background-color:black;
+    color:white;
+    font-family:cursive;
+    text-indent:5px;
+    transition: transform 2s;
+    overflow:auto;
+    
+}
+header:hover{ 
+    height:150px;
+    
+}
+.wc{
+font-size:40px;
+}
+
+#title{
+    margin-top:-60px;
+    text-indent:50px;
+}
+#homebtn{
+    margin-top:10px;
+}
+#t{
+    color:orange;
+}
+#s{
+    color:red;
+""}
+ul{
+    font-size:25px;
+    margin-top:-10px;
+    display:flex;
+        justify-content:center;
+
+}
+ul li{
+    list-style-type:none;
+    margin-left:20px;
+    display:inline-block ;
+    border:solid white 0.5px;
+    padding:5px;
+    margin:5px;
+        border-radius:50%
+background-color:black;
+    
+    
+    
+}
+ul li a{
+    text-decoration:none;
+    color:white;
+    
+    
+}
+#hed2{
+   
+    height:60px;
+}
+#fh1{
+        font-family:cursive;
+   			 font-size:30px;
+        text-align:center;
+}
+h2{
+        font-family:cursive;
+        text-align:center;
+}
+footer{
+        font-family:cursive;
+    		font-size:23px;
+        text-align:center;
+        background-color:black;
+        color:white;
+        padding:20px;
+}    
+.p{
+    text-align:center;
+    font-family:serif;
+    font-size:20px;
+    width:400px;
+    margin:auto;
+}  
+.img{
+    margin:auto;
+    width:400px;
+    height:250px;
+    border:solid black 2px;
+    display:flex;
+    justify-content:center;
+    background-color:skyblue;
+}  
+.info{
+    text-align:center;
+    font-size:25px;
+    font-family:cursive;
+
+} 
+#contact{
+width:380px;
+font-size:30px;
+text-align:center;
+border: dashed black 2px;
+padding:10px;
+border-radius:100px;
+}
+#name{
+display:block;
+width:400px;
+height:30px;
+font-family: cursive;
+text-align:center;
+outline:none;
+border-radius:100px;
+font-size:25px;
+}
+#email{
+display:block;
+width:400px;
+height:30px;
+font-family: cursive;
+text-align:center;
+outline:none;
+border-radius:100px;
+font-size:25px;
+}
+#sub-bt{
+width:400px;
+height:40px;
+font-size:30px;
+margin-top:10px;
+outline:none;
+background-color:black;
+color:white;
+border-radius:100px;
+font-family: cursive;
+}
+#form{
+width:400px;
+margin:auto;
+}           
+
